@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346388733768",
+    "firebase_url": "https://marketingsampleapp.firebaseio.com",
+    "project_id": "marketingsampleapp",
+    "storage_bucket": "marketingsampleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346388733768:android:daa8e6b28aae3b1e",
+        "android_client_info": {
+          "package_name": "com.flurry.android.sample.marketing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346388733768-qceb9rllsh5lam58flf4g5bta5vtlgsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0uAQKn9oaPuaGCEtrf8Q7apYVlfndZxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346388733768-qceb9rllsh5lam58flf4g5bta5vtlgsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

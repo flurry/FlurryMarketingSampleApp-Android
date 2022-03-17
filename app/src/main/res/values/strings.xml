@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarketingSampleApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="FLURRY_APIKEY">86NPKXMQZJGNHD8929N7</string>
+</resources>
